@@ -85,9 +85,9 @@ aside{
     position: absolute;
     right: 0;
     top: 0;
-    
     background-color: #ff3333;
     padding: 30px;
+    border-radius: 30px;
 }
 aside ul li{
     list-style: none;
@@ -117,6 +117,10 @@ h3{
     font-size: 30px;
     display: block;
     left: 50px;
+    margin: 15px;
+  }
+  p{
+    margin: 15px;
   }
 .opcion1 img{
   display: inline;
@@ -124,6 +128,7 @@ h3{
   max-width: 100%;
   border-radius: 20px;
   border: solid 5px black;
+  margin: 10px;
 }
 
 
@@ -133,13 +138,14 @@ h3{
     max-width: 100%;
     border-radius: 20px;
     border: solid 5px black;
-    
+    margin: 15px;
   }
   h4{
     line-height: 35px;
     font-size: 30px;
     display: block;
     left: 50px;
+    margin: 15px;
   }
   .opcion3 img{
     display: inline;
@@ -147,6 +153,7 @@ h3{
     max-width: 100%;
     border-radius: 20px;
     border: solid 5px black;
+    margin: 15px;
   }
   .opcion4 img{
     display: inline;
@@ -154,6 +161,7 @@ h3{
     max-width: 100%;
     border-radius: 20px;
     border: solid 5px black;
+    margin: 15px;
   }
   .opcion5 img{
     display: inline;
@@ -161,6 +169,7 @@ h3{
     max-width: 100%;
     border-radius: 20px;
     border: solid 5px black;
+    margin: 15px;
   }
   .foto1 img{
     display: inline;
